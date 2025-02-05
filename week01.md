@@ -1,13 +1,13 @@
 # Learning Activities & Resources
 This week I re-familiarised myself with html, css and JavaScript. I also explored bootstrap and its many templates and examples. As part of the practical, I also re-familiarised myself with GitHub, SSH Keys and pushing and pulling from a Git repository. I started to explore the many options of web hosting and began to explore containers with docker. I setup a demo WordPress container with docker and became familiar with some of the documentation available with this tool. I also setup my working environments and began to familiarise myself further with Markdown.
 
-https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-https://pages.github.com/
-https://themewagon.com/themes/onepage/
-https://www.docker.com/blog/how-to-dockerize-wordpress/
-https://developer.wordpress.org/advanced-administration/before-install/development/
-https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site \
+https://pages.github.com/ \
+https://themewagon.com/themes/onepage/ \
+https://www.docker.com/blog/how-to-dockerize-wordpress/ \
+https://developer.wordpress.org/advanced-administration/before-install/development/ \
+https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/ \
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent \
 https://www.markdownguide.org/cheat-sheet/
 
 # Estimated Hours
